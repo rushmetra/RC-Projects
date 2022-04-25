@@ -1,4 +1,4 @@
-# RC-TPs
+# RC-Projects
 Pratical assignments made for Computer Networks class 2021/2022.
 
 
